@@ -1,0 +1,12 @@
+
+
+.sec-dark{
+  background-color:hsl(0deg 0% 17%);
+}
+.rounded {
+  border-radius: 1.5rem!important;
+}
+.events {
+  cursor: pointer;
+}
+
