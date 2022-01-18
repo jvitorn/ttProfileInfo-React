@@ -12,7 +12,7 @@ export default function Routes(){
             <Rotas>
                 <Route path="/" element={<Login/>}/>
                 <Route path="/home" element={<Home/>}/>
-                <Route path="/profile" element={<Profile/>}/>
+                <Route path="/profile/:id" element={<Profile/>}/>
             </Rotas>
         </BrowserRouter>
     );
